@@ -1,0 +1,10 @@
+Received reports of a possible compromise of the company's file sharing system.
+Received reports of a suspicious physical device connected to a workstation.
+Detected suspicious network activity from an internal IP address.
+Received multiple reports of phishing emails targeting employees.
+Detected a potential phishing attempt targeting employees via email.
+Detected suspicious activity in the company's network traffic logs.
+Identified a critical vulnerability in the company's database management system.
+Received reports of a possible compromise of an executive's email account.
+Identified a vulnerability in the company's web application.
+Received a report of a data breach involving customer information.
